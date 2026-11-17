@@ -1,0 +1,52 @@
+# Bank Good Credit Prediction Project
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# IDE settings
+.vscode/
+.idea/
+.spyproject/
+.spyderproject/
+
+# Logs and temporary files
+*.log
+*.tmp
+tempCodeRunnerFile.py
+
+# Build and testing files
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Machine Learning model files
+*.pkl
+*.joblib
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Optional: exclude private dataset
+# Data.csv

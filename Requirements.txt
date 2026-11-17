@@ -1,0 +1,19 @@
+# Bank Good Credit Prediction - Project Dependencies
+
+# Data Processing
+pandas
+numpy
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Model Saving and Loading
+joblib
+
+# Jupyter Notebook Environment
+notebook
+ipykernel                                                                        
