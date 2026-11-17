@@ -69,6 +69,9 @@ This project is developed for academic and educational purposes. Model predictio
 
 
 Project Developed By: Vunnam Srikanth
+
 Domain: Banking and Financial Analytics
+
 Project: Bank Good Credit Prediction  
+
 Approach:Machine Learning – Classification  
